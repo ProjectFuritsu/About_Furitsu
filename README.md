@@ -3,7 +3,8 @@ I'm Fritz, a Filipino aspiring project manager and software developer, I am work
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JohnFritzCaballeroCapillanes)
+[![](https://visitcount.itsvg.in/api?id=ProjectFuritsu&icon=5&color=4)](https://visitcount.itsvg.in)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JohnFritzCaballeroCapillanes) 
 
 
 # 💻 Tech Stack:
@@ -20,7 +21,7 @@ I'm Fritz, a Filipino aspiring project manager and software developer, I am work
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ProjectFuritsu&icon=5&color=4)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furitsu) 
