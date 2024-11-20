@@ -1,5 +1,5 @@
 # 💫 Who is Furitsu:
-I'm Fritz, a Filipino aspiring project manager and software developer, I am working on a Philippine startup, I'm here because I want to expose my skill to the community and share my knowledge on technology stuff.
+I'm Furitsu, a Filipino aspiring project manager and software developer, I am working on a Philippine startup, I'm here because I want to expose my skill to the community and share my knowledge on technology stuff.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
