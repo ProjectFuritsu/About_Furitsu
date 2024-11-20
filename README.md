@@ -1,4 +1,4 @@
-# 💫 Who is Fritz:
+# 💫 Who is Furitsu:
 I'm Fritz, a Filipino aspiring project manager and software developer, I am working on a Philippine startup, I'm here because I want to expose my skill to the community and share my knowledge on technology stuff.
 
 ### ✍️ Random Dev Quote
